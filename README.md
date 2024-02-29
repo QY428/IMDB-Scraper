@@ -1,11 +1,11 @@
-# IMDB-Scraper
-## 爬虫程序：对IMDB的电影数据进行爬取
+#IMDB-Scraper
+## Crawler program: crawl IMDB movie data
 
-### 使用到的主要方法：
-#### 使用IMDB自身的高级搜索功能可以自定义筛选所需的数据范围
-* 此程序中选择的筛选条件是：
-  1. 1980-2021年内
-  2. 评论数大于5000
-  3. 时长超过60分钟
+### Main methods used:
+#### Use IMDB's own advanced search function to customize the data range required for filtering
+*The filters selected in this program are:
+   1. Within 1980-2021
+   2. The number of comments is greater than 5,000
+   3. Duration exceeds 60 minutes
 
-#### 使用`BeautifulSoup`库对页面html进行解析
+#### Use the `BeautifulSoup` library to parse the page html
