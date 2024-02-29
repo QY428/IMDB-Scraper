@@ -1,4 +1,4 @@
-#IMDB-Scraper
+# IMDB-Scraper
 ## Crawler program: crawl IMDB movie data
 
 ### Main methods used:
